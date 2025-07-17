@@ -1,62 +1,76 @@
-# Google AI Internship Projects (In-house Internship)
+# 🤖 Google AI – ML Summer Internship Projects (MediCaps University, 2025)
 
 ## 🏫 Internship Overview
-This repository contains all the projects and learnings from my in-house internship at [Your College Name], under the domain **Google AI**. This internship focused on exploring the world of Machine Learning, Deep Learning, TensorFlow Lite, and building Android applications using object detection and product search.
+This repository showcases all major projects and key learnings from my **Google AI – Machine Learning Summer Internship** held at **MediCaps University, Indore** (June 9 – July 4, 2025), under the mentorship of **Bhavana Tiwari Ma'am**.
+
+Throughout the internship, I gained end-to-end experience in **ML & DL pipeline development**, **Computer Vision**, **Edge AI**, and **AI-powered Android application development**, following **Google-standard engineering practices**.
 
 ---
 
-## 🧠 Key Learning Areas
-- Machine Learning & Deep Learning techniques
-- Convolutional Neural Networks (CNNs)
-- TensorFlow & Keras
-- TensorFlow Lite (TFLite) for model optimization
-- Android Studio for mobile app development
-- Google Developer Program tools and practices
-- Object Detection, Product Search systems
-- End-to-End AI-Powered Mobile Application
+## 🚀 Key Technical Focus Areas
+- ✅ ML Pipeline: Data preprocessing to model deployment
+- ✅ Algorithm Mastery: Supervised & Unsupervised learning
+- ✅ Production-Ready Model Building: Cross-validation, hyperparameter tuning
+- ✅ Neural Networks & CNNs: Architecture design & implementation
+- ✅ TensorFlow & Keras: Custom training, transfer learning
+- ✅ TensorFlow Lite: Model optimization for edge/mobile deployment
+- ✅ Android Development: Real-time AI integration using Android Studio
+- ✅ AI-Powered Apps: Object detection, image search, and mobile deployment
 
 ---
 
-## 📂 Project Highlights
+## 📂 Project Portfolio
 
-### 1. CNN Projects
-- Image classification and recognition
-- Real-time object tracking
+### 📊 1. House Price Prediction System
+- Regression model with market data integration
+- End-to-end ML workflow from preprocessing to prediction
 
-### 2. TensorFlow / Keras Projects
-- Custom model training
-- Transfer Learning
+### 🌿 2. Plant Disease Detection
+- High-accuracy image classification using CNNs
+- Deployed on mobile via TensorFlow Lite
 
-### 3. TFLite Models
-- Model conversion and optimization
-- Running ML models on mobile devices
+### 👗 3. Fashion-MNIST Classification
+- Multi-class image recognition system
+- Implemented using Keras with performance tuning
 
-### 4. Android Applications
-- Object Detection Mobile App
-- Product Search App using custom ML model
-- Custom Android application integrated with ML features
+### 📱 4. Mobile AI Applications
+- **Object Detection App** – Real-time inference with Edge AI
+- **Product Image Search App** – Visual search algorithm integration
+- **Custom ML Android App** – Native app with full model training-to-deployment cycle
+
+---
+
+## 🧠 Enhanced Technical Skills
+- 🎯 Full-Stack AI Development: ML algorithms, deep learning, mobile deployment
+- 🎯 Google-Standard Practices: Clean, scalable, and maintainable code
+- 🎯 Real-World AI Solutions: Robust ML/DL models addressing real use cases
+- 🎯 Problem-Solving Mindset: Focused on performance, accuracy, and usability
 
 ---
 
 ## 📱 Mobile App Showcase
-Screenshots and short descriptions of the apps developed during the internship are available in the `Mobile-App-Projects/` directory.
+Screenshots, APKs, and descriptions of all mobile apps built during the internship are available in the `Mobile-App-Projects/` directory.
 
 ---
 
-## 📜 Certificate & Documentation
-All internship documents, reports, and the official certificate can be found in the `Docs/` directory.
+## 📜 Certificate
 
 ---
 
-## 🔗 Tech Stack
-- Python, TensorFlow, Keras, OpenCV
-- Android Studio, Java/Kotlin
-- TensorFlow Lite
-- Git, GitHub
+## 🛠 Tech Stack
+- **Languages & Frameworks:** Python, TensorFlow, Keras, Java/Kotlin  
+- **Mobile Development:** Android Studio, TensorFlow Lite  
+- **Libraries:** OpenCV, NumPy, Pandas, Matplotlib  
+- **Tools:** Git, GitHub, Google Developer Tools
 
 ---
 
-## 🧑‍💻 Author
-**[Your Full Name]**  
-[LinkedIn Profile] • [Email] • [GitHub Profile]
+## 👤 Author
+**Punit Pawar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/punit-pawar5) • 📧 [punitpawar0504@example.com] • 💻 [GitHub](https://github.com/Punitpawar5)
+
+---
+
+## 📢 Hashtags (for reference)
+`#GoogleAI #MachineLearning #DeepLearning #EdgeAI #AndroidDevelopment #AIInternship #ComputerVision #AIProjects #TensorFlow #Keras #TFLite #MobileAI #TechCareers #FullStackAI`
 
