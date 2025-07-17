@@ -54,6 +54,8 @@ Screenshots, APKs, and descriptions of all mobile apps built during the internsh
 ---
 
 ## 📜 Certificate
+<img src="https://github.com/Punitpawar5/Google-AI-internship/blob/main/InternshipCertificate.jpeg" alt="Internship Certificate" width="600"/>
+
 
 ---
 
